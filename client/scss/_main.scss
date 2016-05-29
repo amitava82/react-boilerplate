@@ -1,0 +1,24 @@
+
+html, body{
+    height: 100%;
+}
+
+#main{
+    position: relative;
+}
+
+.container-fluid{
+    padding: 0 20px 0 30px;
+}
+
+.btn-lg {
+    font-weight: 700;
+}
+
+.btn.active.focus, .btn.active:focus, .btn.focus, .btn:active.focus, .btn:active:focus, .btn:focus {
+    outline: 0;
+}
+
+a{
+    cursor: pointer;
+}
